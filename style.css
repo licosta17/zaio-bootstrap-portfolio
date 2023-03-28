@@ -59,3 +59,14 @@
   color: #fff;
   border-bottom-color: #fff;
 }
+
+/* header {
+  background-color: rgba(7, 5, 5, 0.952);
+  opacity: 70%;
+} */
+
+.scrolling {
+  background-color: rgba(7, 5, 5, 0.952);
+  opacity: 80%;
+  transition: all 0.7s;
+}
