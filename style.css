@@ -24,7 +24,8 @@
  */
 /* Banner-wrap section */
 .banner-wrap {
-  background-image: url(./assets/fish-cover.jpg);
+  /* background-image: url(./assets/fish-cover.jpg); */
+  background-image: url(./assets/engineering\ building.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
